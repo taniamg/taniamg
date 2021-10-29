@@ -2,7 +2,7 @@
 
 <!--
 **taniamg/taniamg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
